@@ -1,5 +1,9 @@
 ### study-of-basic-gates
 
+### NAME : NAVEEN KUMAR S
+
+### REF NO: 24900140
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -63,17 +67,21 @@ Y= A⊕B
 
 
 **PROGRAM**
+![Screenshot 2024-11-17 090607](https://github.com/user-attachments/assets/ba392a32-d87b-4370-adcd-59f54d1e8549)
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: RegisterNumber: 24900140
  
 **Logic symbol & Truthtable**
+![Screenshot 2024-11-17 101644](https://github.com/user-attachments/assets/b30029e7-89c7-4a73-a5d8-73fbcf0a3354)
 
 **RTL realization Output:** 
+![Screenshot 2024-11-17 094627](https://github.com/user-attachments/assets/f4f364c2-9c46-4fbd-b7d6-4e3020f106aa)
 
 **RTL**
+![Screenshot 2024-11-17 093903](https://github.com/user-attachments/assets/bca7f52e-993c-4b3f-859e-1d719a419403)
 
 **Result:**
-
+To study and verify the truth table of logic gates in Quartus II using Verilog programming was successfull.
 
